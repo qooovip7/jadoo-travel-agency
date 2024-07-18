@@ -20,7 +20,7 @@ export default function Header({}: Props) {
         />
         <link
           rel="canonical"
-          href="https://www.jadoo-travel-agency.vercel.app/"
+          href="https://mofa.one"
         />
 
         <meta property="og:locale" content="en_US" />
@@ -35,7 +35,7 @@ export default function Header({}: Props) {
         />
         <meta
           property="og:url"
-          content="https://www.jadoo-travel-agency.vercel.app/"
+          content="https://mofa.one"
         />
         <meta property="og:site_name" content="Jadoo Travel Agency" />
         <meta property="og:image" content="" />
